@@ -45,6 +45,7 @@ Once the extension is installed, simply use it in your code by to create Ajax up
 </head>
 <body>
 <div class="container">
+```
 ```php
 <?php 
 use Ajaz\widget\Dropzone;
@@ -66,6 +67,7 @@ $dropzone = new Dropzone([
 $dropzone->run();
 ?>
 ```
+```html
 </div>
 </body>
 </html>
