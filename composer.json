@@ -1,0 +1,20 @@
+{
+    "name": "ajaz/php-dropzone-widget",
+    "description": "DropzoneJs Extention for PHP",
+    "type": "library",
+    "license": "MIT",
+    "keywords": ["php", "dropzone", "widget", "yii2", "php-dropzone", "dropzonejs", "dropzone-js", "dropzone-file", "laravel", "dropzoneupload", "php-file-upload", "php dropzone widget", "drag drop image upload", "dropzone js", "dropzone js ajax upload"],
+    "homepage": "https://github.com/ajazsaif/php-googlecharts",
+    "authors": [{
+        "name": "ajaz",
+        "email": "ajazaalam@gmail.com"
+    }],
+    "autoload": {
+        "psr-4": {
+            "Ajaz\\widget\\": "src/"
+        }
+    },
+    "require": {
+        "php": ">=5.6"
+    }
+}
