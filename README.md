@@ -28,7 +28,7 @@ Usage
 -----
 
 Once the extension is installed, simply use it in your code by to create Ajax upload area (JQuery is required) :
-
+Load the following assets in your header
 ```html
 <!DOCTYPE html>
 <html lang="en">
