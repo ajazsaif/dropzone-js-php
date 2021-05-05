@@ -43,14 +43,12 @@ Once the extension is installed, simply use it in your code by to create Ajax up
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/dropzone/5.7.0/dropzone.min.css" />
     <script src="https://cdnjs.cloudflare.com/ajax/libs/dropzone/5.7.0/dropzone.min.js"></script>
 </head>
-<body>
+```
+```php
 <div class="container">
-<code>
 <?php 
 use Ajaz\widget\Dropzone;
-
 require 'vendor/autoload.php';
-
 $dropzone = new Dropzone([
     'uploadUrl'=>'upload.php', //your server side upload action
     'options'=>[
@@ -65,11 +63,10 @@ $dropzone = new Dropzone([
 ]);
 $dropzone->run();
 ?>
-</code>
 </div>
+```
 </body>
 </html>
-```
 
 To pass options : (More details at [dropzonejs official docs](http://www.dropzonejs.com/#toc_6) )
 
