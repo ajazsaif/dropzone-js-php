@@ -4,7 +4,7 @@
     "type": "library",
     "license": "MIT",
     "keywords": ["php", "dropzone", "widget", "yii2", "php-dropzone", "dropzonejs", "dropzone-js", "dropzone-file", "laravel", "dropzoneupload", "php-file-upload", "php dropzone widget", "drag drop image upload", "dropzone js", "dropzone js ajax upload"],
-    "homepage": "https://github.com/ajazsaif/php-googlecharts",
+    "homepage": "https://github.com/ajazsaif/dropzone-js-php",
     "authors": [{
         "name": "ajaz",
         "email": "ajazaalam@gmail.com"
