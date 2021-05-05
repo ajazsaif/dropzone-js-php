@@ -67,7 +67,6 @@ $dropzone = new Dropzone([
 $dropzone->run();
 ?>
 ```
-```html
 </div>
 </body>
 </html>
